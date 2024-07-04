@@ -76,6 +76,7 @@
 
   "subtitles.debuff.heartbeat": "Сердцебиение",
   "firstaid.gui.next_heal": "Следующее исцеление: %s секунд",
+  "effect.firstaid.morphine": "Морфин",
   "firstaid.specificarmor": " +%s Локальная броня",
   "firstaid.specifictoughness": " +%s Локальная прочность брони",
 
@@ -88,7 +89,7 @@
   "firstaid.gui.right_leg": "Правая нога",
   "firstaid.gui.right_foot": "Правая ступня",
   "firstaid.gui.apply_hint": "Выберите, где применить элемент",
-  "firstaid.gui.morphine_left": "Действие морфина(%s left)",
+  "firstaid.gui.morphine_left": "Действие морфина(осталось %s)",
   "firstaid.gui.active_item": "В настоящее время активен",
   "firstaid.gui.no_sleep_heal": "Сон не восстанавливает здоровье",
   "firstaid.gui.sleep_heal_amount": "Сон восстанавливает %s%% максимальное здоровье"
